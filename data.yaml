@@ -1,5 +1,5 @@
-train: /Users/apple/Desktop/comp4471_project/foodseg103_yolo/train/images
-val: /Users/apple/Desktop/comp4471_project/foodseg103_yolo/val/images
+train: ./foodseg103_yolo/train/images
+val: ./foodseg103_yolo/val/images
 
 names:
   - background

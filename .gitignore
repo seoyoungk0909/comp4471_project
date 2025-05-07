@@ -1,3 +1,8 @@
 data
 datasets
 foodseg103_yolo
+
+runs/foodseg_full/weights/
+runs/foodseg_phase1/weights/
+
+experiments/
